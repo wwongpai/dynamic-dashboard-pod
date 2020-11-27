@@ -1,0 +1,17 @@
+# AppDynamics Controller Host
+ControllerHost: 
+
+# AppDynamics User Name
+UserName: 
+
+# AppDynamics Account Name
+AccountName: 
+
+# AppDynamics Password
+Password: 
+
+# Kubernetes Namespace
+Namespace: 
+
+# Dashboard Template
+TemplateName: init-dash.json
